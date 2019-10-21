@@ -22,6 +22,7 @@ console.log(Object.values(doggy));
 // 배열형태로 키와 value값을 반환함
 console.log(Object.entries(doggy));
 
+// key값을 뽑고 doggy에 있는 값을 key값으로 조회함
 for (let key in doggy) {
-    console.log(key);
+    console.log(`${key}: ${doggy[key]}`);
 }
