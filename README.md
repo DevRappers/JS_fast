@@ -2,8 +2,6 @@
 
 패스트 캠퍼스 온라인 강의용 Repository 
 
-<br><br>
-
 ## 블로그 정리
 1. [환경설정](https://devrappers.tistory.com/21)
 2. [변수, 상수](https://devrappers.tistory.com/22)
